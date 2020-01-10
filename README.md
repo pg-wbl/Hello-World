@@ -1,2 +1,3 @@
-# Hello-Word
-第一个github练习仓库
+# Hello-World
+我的第一个github练习仓库。
+
